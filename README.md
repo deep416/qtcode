@@ -1,0 +1,2 @@
+# qtcode
+qt creator code
